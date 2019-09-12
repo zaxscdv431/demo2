@@ -6,11 +6,11 @@
 
 :root {
   /* 主要背景 */
-  --html-bkg-color: #fa0714;
-  --main-bkg-color: #fa0714;
-  --sub-bkg-color: #fa0714;
-  --weak-bkg-color: #fa0714;
-  --tip-bkg-color: #fa0714;
+  --html-bkg-color: #000000;
+  --main-bkg-color: #000000;
+  --sub-bkg-color: #000000;
+  --weak-bkg-color: #000000;
+  --tip-bkg-color: #000000;
 
   /* 主要文字 */
   --main-text-color: #077aed;
