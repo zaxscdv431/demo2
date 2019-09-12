@@ -13,12 +13,12 @@
   --tip-bkg-color: #077aed;
 
   /* 主要文字 */
-  --main-text-color: #aaa;
-  --sub-text-color: #666;
-  --weak-text-color: #505050;
-  --odds-text-color: #fcee09;
-  --odds-text-lock-color: #505050;
-  --strong-text-color: yellow;
+  --main-text-color: #077aed;
+  --sub-text-color: #077aed;
+  --weak-text-color: #077aed;
+  --odds-text-color: #077aed;
+  --odds-text-lock-color: #077aed;
+  --strong-text-color: red;
 
   /* 赛事卡 */
   --match-card-bkg-color: #1c1c1c;
