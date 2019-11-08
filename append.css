@@ -40,12 +40,12 @@
 /* 标签 tab */
 .v-tabs__wrapper {
   --tab-item-active-color: #fff;
-  --tab-bar-active-color: #05f73e;
+  --tab-bar-active-color: #fcee09;
 }
 
 /* 首页公告 */
 .announcement-carousel {
-  --carousel-bkg-color: #262626;
+  --carousel-bkg-color: #05f73e;
   --carousel-text-color: #fcee09;
 }
 
