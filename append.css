@@ -28,12 +28,12 @@
   --odds-btn-bkg-active: #383400;
   --odds-btn-border-default: #7b7300;
   --odds-btn-border-active: #fcee09;
-  --odds-btn-border-over: #05f73e;
+  --odds-btn-border-over: rgba(71, 71, 71, 0.5);
 }
 
 /* 遊戲筛选 */
 .game-filter {
-  --active-bkg: #262626;
+  --active-bkg: #05f73e;
   --active-bar: #fcee09;
 }
 
