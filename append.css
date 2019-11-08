@@ -52,11 +52,11 @@
 /* 投注记录弹窗 */
 .bet-history {
   --date-bkg-color: #141517;
-  --tab-border-color: #05f73e;
+  --tab-border-color: #1c2236;
 }
 
 .close-icon {
-  --close-icon-color: #506180;
+  --close-icon-color: #05f73e;
   --close-icon-hover-color: #fcee09;
 }
 
