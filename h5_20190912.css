@@ -1,6 +1,6 @@
 /* 首页 Logo */
 .app-header {
-   --app-logo: url("https://media.rockstargames.com/rockstargames-newsite/uploads/5aabe5e2a4e6d54ec7c1ab026dab9ddcf79d18b2.jpg"); 
+   --app-logo: url(""); 
   /*--back-icon: hidden; /* H5版本上面箭頭隱藏*/
 }
 
