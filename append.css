@@ -21,10 +21,10 @@
 
   /* 赛事卡 */
   --match-card-bkg-color: #1c1c1c;
-  --match-card-bkg-hover-color: #05f73e;
+  --match-card-bkg-hover-color: #333;
 
   /* 盘口按钮 */
-  --odds-btn-bkg-default: rgba(39, 39, 39, 1);
+  --odds-btn-bkg-default: rgba(0, 249, 0, 1);
   --odds-btn-bkg-active: #383400;
   --odds-btn-border-default: #7b7300;
   --odds-btn-border-active: #fcee09;
