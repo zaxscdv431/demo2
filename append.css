@@ -34,12 +34,12 @@
 /* 遊戲筛选 */
 .game-filter {
   --active-bkg: #262626;
-  --active-bar: #05f73e;
+  --active-bar: #fcee09;
 }
 
 /* 标签 tab */
 .v-tabs__wrapper {
-  --tab-item-active-color: #fff;
+  --tab-item-active-color: #05f73e;
   --tab-bar-active-color: #fcee09;
 }
 
