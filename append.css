@@ -33,8 +33,8 @@
 
 /* 遊戲筛选 */
 .game-filter {
-  --active-bkg: #05f73e;
-  --active-bar: #fcee09;
+  --active-bkg: #262626;
+  --active-bar: #05f73e;
 }
 
 /* 标签 tab */
