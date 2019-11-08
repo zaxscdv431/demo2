@@ -45,8 +45,8 @@
 
 /* 首页公告 */
 .announcement-carousel {
-  --carousel-bkg-color: #05f73e;
-  --carousel-text-color: #fcee09;
+  --carousel-bkg-color: #fff;
+  --carousel-text-color: #05f73e;
 }
 
 /* 投注记录弹窗 */
