@@ -66,8 +66,8 @@
 
 /* 投注按钮 (可下注) */
 .base-button .base-button-contain:not(.disabled) {
-  box-shadow: none;
-  border-image-source: linear-gradient(100deg, #f70505, #f70505);
+  box-shadow: 2px 2px 2px 1px rgba(0, 249, 249, 0);
+  border-image-source: linear-gradient(100deg, #7b7300, #ffff00);
   background-color: #fcee09;
   color: #000;
 }
