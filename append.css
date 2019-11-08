@@ -46,12 +46,12 @@
 /* 首页公告 */
 .announcement-carousel {
   --carousel-bkg-color: #262626;
-  --carousel-text-color: #05f73e;
+  --carousel-text-color: #fcee09;
 }
 
 /* 投注记录弹窗 */
 .bet-history {
-  --date-bkg-color: #141517;
+  --date-bkg-color: #05f73e;
   --tab-border-color: #1c2236;
 }
 
