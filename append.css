@@ -20,8 +20,8 @@
   --strong-text-color: yellow;
 
   /* 赛事卡 */
-  --match-card-bkg-color: #05f73e;
-  --match-card-bkg-hover-color: #333;
+  --match-card-bkg-color: #1c1c1c;
+  --match-card-bkg-hover-color: #05f73e;
 
   /* 盘口按钮 */
   --odds-btn-bkg-default: rgba(39, 39, 39, 1);
