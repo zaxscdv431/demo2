@@ -25,8 +25,8 @@
 
   /* 盘口按钮 */
   --odds-btn-bkg-default: rgba(39, 39, 39, 1);
-  --odds-btn-bkg-active: #05f73e;
-  --odds-btn-border-default: #7b7300;
+  --odds-btn-bkg-active: #383400;
+  --odds-btn-border-default: #05f73e;
   --odds-btn-border-active: #fcee09;
   --odds-btn-border-over: rgba(71, 71, 71, 0.5);
 }
