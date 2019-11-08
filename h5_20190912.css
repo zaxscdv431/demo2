@@ -1,6 +1,6 @@
 /* 首页 Logo */
 .app-header {
-   --app-logo: url(""); 
+  /* --app-logo: url(""); */ /* 首頁的LOGO */
   /*--back-icon: hidden; /* H5版本上面箭頭隱藏*/
 }
 
