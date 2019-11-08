@@ -1,7 +1,7 @@
 /* 首页 Logo */
 .app-header {
-  /* --app-logo: url(""); */
-  --back-icon: hidden;
+   --app-logo: url("https://www.rockstargames.com/newswire/article/60618/Enter-to-Win-the-Red-Dead-Redemption-2-Logo-T-Shirt"); 
+  --back-icon: hidden; /* H5版本上面箭頭隱藏*/
 }
 
 :root {
