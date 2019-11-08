@@ -1,24 +1,23 @@
 /* 主要 Logo */
-.app-header .app-logo {
-  width: 136px;
-  background-image: url("");
+.app-header {
+  --app-logo: url("");
 }
 
 :root {
   /* 主要背景 */
-  --html-bkg-color: #000000;
-  --main-bkg-color: #000000;
-  --sub-bkg-color: #05f73e;
-  --weak-bkg-color: #000000;
-  --tip-bkg-color: #000000;
+  --html-bkg-color: #0a0c16;
+  --main-bkg-color: #101010;
+  --sub-bkg-color: #262626;
+  --weak-bkg-color: #181818;
+  --tip-bkg-color: #7b7300;
 
   /* 主要文字 */
-  --main-text-color: #077aed;
-  --sub-text-color: #077aed;
-  --weak-text-color: #077aed;
-  --odds-text-color: #077aed;
-  --odds-text-lock-color: #077aed;
-  --strong-text-color: red;
+  --main-text-color: #aaa;
+  --sub-text-color: #666;
+  --weak-text-color: #505050;
+  --odds-text-color: #fcee09;
+  --odds-text-lock-color: #505050;
+  --strong-text-color: yellow;
 
   /* 赛事卡 */
   --match-card-bkg-color: #1c1c1c;
@@ -30,14 +29,12 @@
   --odds-btn-border-default: #7b7300;
   --odds-btn-border-active: #fcee09;
   --odds-btn-border-over: rgba(71, 71, 71, 0.5);
-  --odds-btn-text-active: #fff;
 }
 
-/* 遊戲篩選 */
+/* 遊戲筛选 */
 .game-filter {
   --active-bkg: #262626;
   --active-bar: #fcee09;
-  --hover-text: #fff;
 }
 
 /* 标签 tab */
@@ -52,16 +49,19 @@
   --carousel-text-color: #fcee09;
 }
 
-/* 赛事时间筛选 */
-.match-schedule {
-  --schedule-list-bkg: #181818;
-  --schedule-list-border: rgba(255, 195, 15, .16);
-}
-
 /* 投注记录弹窗 */
 .bet-history {
   --date-bkg-color: #141517;
   --tab-border-color: #1c2236;
+}
+
+.close-icon {
+  --close-icon-color: #506180;
+  --close-icon-hover-color: #fcee09;
+}
+
+.live-icon {
+  --live-icon-color: #fb0541;
 }
 
 /* 投注按钮 (可下注) */
@@ -79,15 +79,4 @@
   border-image-source: linear-gradient(100deg, #ff6e6e, #ff1418);
   background-color: #dc0000;
   color: #fff;
-}
-
-/* close-icon */
-.close-icon {
-  --close-icon-color: #506180;
-  --close-icon-hover-color: #fcee09;
-}
-
-/* live-icon */
-.live-icon {
-  --live-icon-color: #fb0541;
 }
