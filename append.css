@@ -57,11 +57,11 @@
 
 .close-icon {
   --close-icon-color: #506180;
-  --close-icon-hover-color: #05f73e;
+  --close-icon-hover-color: #fcee09;
 }
 
 .live-icon {
-  --live-icon-color: #fb0541;
+  --live-icon-color: #05f73e;
 }
 
 /* 投注按钮 (可下注) */
