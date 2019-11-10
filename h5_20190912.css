@@ -7,10 +7,10 @@
 :root {
   /* APP 顶部、投注单底部 */
   --app-header-bkg: #000;  
-  --app-icon-color: #00f900;
+  --app-icon-color: #ebc612;
 
   /* 背景颜色 */
-  --main-bkg-color: #101010;
+  --main-bkg-color: #00f900;
   --sub-bkg-color: #262626;
   --weak-bkg-color: #181818;
   --focus-bkg-color: #141517;
