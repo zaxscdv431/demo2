@@ -68,7 +68,7 @@
 .base-button .base-button-contain:not(.disabled) {
   box-shadow: none;
   border-image-source: linear-gradient(100deg, #7b7300, #ffff00);
-  background-color: #00f900;
+  background-color: #fcee09;
   color: #000;
 }
 
@@ -78,5 +78,5 @@
     inset 0 1px 0 0 rgba(255, 106, 106, 0.6);
   border-image-source: linear-gradient(100deg, #ff6e6e, #ff1418);
   background-color: #dc0000;
-  color: #fff;
+  color: #00f900;
 }
