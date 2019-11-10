@@ -68,7 +68,7 @@
 .base-button .base-button-contain:not(.disabled) {
   box-shadow: none;
   border-image-source: linear-gradient(100deg, #00f900, #00f900);
-  background-color: #fcee09;
+  background-color: #00f900;
   color: #000;
 }
 
