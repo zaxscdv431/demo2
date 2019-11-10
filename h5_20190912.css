@@ -1,6 +1,6 @@
 /* 首页 Logo */
 .app-header {
-   --app-logo: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVSSBAF8O46bxH1AhCag-tNxxp3nixaulefTVWYSD8YN8II4aN");  /* 首頁的LOGO */
+   /*--app-logo: url("");  */ /* 首頁的LOGO */
   /*--back-icon: hidden; /* H5版本上面箭頭隱藏*/
 }
 
