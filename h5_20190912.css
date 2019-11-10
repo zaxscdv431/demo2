@@ -1,12 +1,12 @@
 /* 首页 Logo */
 .app-header {
    /*--app-logo: url("");  */ /* 首頁的LOGO */
-  /*--back-icon: hidden; /* H5版本上面箭頭隱藏*/
+  --back-icon: hidden; /* H5版本上面箭頭隱藏
 }
 
 :root {
   /* APP 顶部、投注单底部 */
-  --app-header-bkg: #000;
+  --app-header-bkg: #00f900;
   --app-icon-color: #05f73e;
 
   /* 背景颜色 */
