@@ -48,8 +48,8 @@
   --bet-slip-header-text: #fff;
 
   /* 投注单键盘 */
-  --bet-slip-keyboard-bkg: #00f900;
-  --bet-slip-keyboard-bkg-active: #383400;
+  --bet-slip-keyboard-bkg: #34363a;
+  --bet-slip-keyboard-bkg-active: #00f900;
 }
 
 /* 投注按钮 (可下注) */
