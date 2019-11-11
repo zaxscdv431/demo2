@@ -26,10 +26,10 @@
 
   /* tab 颜色 */
   --tab-bar-active-color: #ff2;
-  --tab-bar-border-color: #00f900;
+  --tab-bar-border-color: #2d2d2d;
 
   /* 首页 公告、日期 (文字、icon) */
-  --home-carousel-text: #ebc612;
+  --home-carousel-text: #00f900;
   --home-carousel-border: #2d2d2d;
 
   /* 按钮样式 */
