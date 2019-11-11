@@ -56,8 +56,8 @@
 .bet-slip-tab .tab-content .bet-btn {
   box-shadow: 0 0 20px 0 rgba(235, 198, 18, 0.1);
   border-image-source: linear-gradient(106deg, #ffd400, #ebc612);
-  background-image: linear-gradient(106deg, #00f900, #00f900);
-  color: #000;
+  background-image: linear-gradient(106deg, #ffd400, #ebc612);
+  color: #00f900;
 }
 
 /* 投注按钮 (赔率有变化) */
