@@ -44,8 +44,8 @@
   --match-card-border: #333;
 
   /* 投注单 header、输入框 focus */
-  --bet-slip-header-bkg: #00f900;
-  --bet-slip-header-text: #fff;
+  --bet-slip-header-bkg: #7f6d15;
+  --bet-slip-header-text: #00f900;
 
   /* 投注单键盘 */
   --bet-slip-keyboard-bkg: #34363a;
