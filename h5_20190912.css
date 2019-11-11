@@ -41,10 +41,10 @@
 
   /* 赛事卡 */
   --match-card-bkg: #1c1c1c;
-  --match-card-border: #00f900;
+  --match-card-border: #333;
 
   /* 投注单 header、输入框 focus */
-  --bet-slip-header-bkg: #7f6d15;
+  --bet-slip-header-bkg: #00f900;
   --bet-slip-header-text: #fff;
 
   /* 投注单键盘 */
