@@ -36,8 +36,8 @@
   --odds-btn-bkg-default: #272727;
   --odds-btn-bkg-active: #383400;
   --odds-btn-border-default: #7b7300;
-  --odds-btn-border-active: #00f900;
-  --odds-btn-border-over: rgba(71, 71, 71, 0.5);
+  --odds-btn-border-active: #fcee09;
+  --odds-btn-border-over: #00f900;
 
   /* 赛事卡 */
   --match-card-bkg: #1c1c1c;
