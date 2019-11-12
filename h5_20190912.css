@@ -25,8 +25,8 @@
   --tip-text-color: #c5a813;
 
   /* tab 颜色 */
-  --tab-bar-active-color: #00f900;
-  --tab-bar-border-color: #2d2d2d;
+  --tab-bar-active-color: #ff2;
+  --tab-bar-border-color: #00f900;
 
   /* 首页 公告、日期 (文字、icon) */
   --home-carousel-text: #ebc612;
