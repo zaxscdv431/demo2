@@ -1,0 +1,93 @@
+/* 主要 Logo */
+.app-header .app-logo {
+  width: 100px !important;
+  background-image: url("https://cdn.hot887.com/UPLOADS/ddeffa71-253c-4fca-9c44-2a963efbaff0.svg") !important;
+}
+
+:root {
+  /* 主要背景 */
+  --html-bkg-color: #141414; /*已改*/
+  --main-bkg-color: #181818; /*已改*/
+  --sub-bkg-color:#262626;/*已改*/
+  --weak-bkg-color: #111; /*已改*/
+  --tip-bkg-color: #4ea0be;  /*已改*/
+
+  /* 主要文字 */
+  --main-text-color: rgba(255,255,255,.55); /*已改*/
+  --sub-text-color: rgba(255,255,255,.6);/*已改*/
+  --weak-text-color:#929292;/*已改*/
+  --odds-text-color: #fff7d6;/*已改*/
+  --odds-text-lock-color: rgba(255,255,255,.2);/*已改*/
+  --strong-text-color: #fff7d6; /*已改*/
+
+  /* 赛事卡 */
+  --match-card-bkg-color:#111;  /*已改*/
+  --match-card-bkg-hover-color: #181818;  /*已改*/
+
+  /* 盘口按钮 */
+  --odds-btn-bkg-default: #202020; /*已改*/
+  --odds-btn-bkg-active: #4ea0be; /*已改*/
+  --odds-btn-border-default: #262626; /*已改*/
+  --odds-btn-border-active: #4ea0be; /*已改*/
+  --odds-btn-border-over: #1b1b1b;  /*已改*/
+  --odds-btn-text-active: #fff; /*已改*/
+}
+
+/* 遊戲篩選 */
+.game-filter {
+  --active-bkg: #303030; /*已改*/
+  --active-bar: rgba(255,255,255,.85);/*已改*/
+  --hover-text: rgba(255,255,255,.85);/*已改*/
+}
+
+/* 标签 tab */
+.v-tabs__wrapper {
+  --tab-item-active-color: rgba(255,255,255,.85);/*已改*/
+  --tab-bar-active-color: #fff7d6;/*已改*/
+}
+
+/* 首页公告 */
+.announcement-carousel {
+  --carousel-bkg-color: #111;/*已改*/
+  --carousel-text-color:  rgba(255,255,255,.7);/*已改*/
+}
+
+/* 赛事时间筛选 */
+.match-schedule {
+  --schedule-list-bkg: #181818;
+  --schedule-list-border: rgba(255, 195, 15, .16);
+}
+
+/* 投注记录弹窗 */
+.bet-history {
+  --date-bkg-color: #141517;
+  --tab-border-color: #1c2236;
+}
+
+/* 投注按钮 (可下注) */
+.base-button .base-button-contain:not(.disabled) {
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,.3);/*已改*/
+  border-image-source: linear-gradient(100deg, #2D667B, #63ABC5);/*已改*/
+  background-color: #4ea0be;/*已改*/
+  color: #fff;/*已改*/
+}
+
+/* 投注按钮 (赔率有变化) */
+.base-button .has-new-odds:not(.disabled) {
+  box-shadow: 0 0 4px 0 rgba(14, 20, 34, 0.5),
+    inset 0 1px 0 0 rgba(255, 106, 106, 0.6);
+  border-image-source: linear-gradient(100deg, #ff6e6e, #ff1418);
+  background-color: #dc0000;
+  color: #fff;
+}
+
+/* close-icon */
+.close-icon {
+  --close-icon-color: #7b7b7b; /*已改*/
+  --close-icon-hover-color: rgba(255,255,255,.85); /*已改*/
+}
+
+/* live-icon */
+.live-icon {
+  --live-icon-color: #df2f44;/*已改*/
+}
