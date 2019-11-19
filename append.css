@@ -44,7 +44,7 @@
 }
 
 /* 首页公告 */
-.announcement-carousel {
+.app-announcement {
   --carousel-bkg-color: #11ff00;
   --carousel-text-color: #11ff00;
 }
