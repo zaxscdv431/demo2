@@ -5,7 +5,7 @@
 
 :root {
   /* 主要背景 */
-  --html-bkg-color: #11ff00;
+  --html-bkg-color: #0a0c16;
   --main-bkg-color: #101010;
   --sub-bkg-color: #262626;
   --weak-bkg-color: #181818;
@@ -46,7 +46,7 @@
 /* 首页公告 */
 .announcement-carousel {
   --carousel-bkg-color: #11ff00;
-  --carousel-text-color: #fcee09;
+  --carousel-text-color: #11ff00;
 }
 
 /* 投注记录弹窗 */
