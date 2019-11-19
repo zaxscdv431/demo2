@@ -46,7 +46,7 @@
 /* 首页公告 */
 .app-announcement {
   --carousel-bkg-color: #11ff00;
-  --carousel-text-color: #11ff00;
+  --carousel-text-color: #111;
 }
 
 /* 投注记录弹窗 */
